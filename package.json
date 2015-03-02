@@ -1,0 +1,16 @@
+{
+  "name": "uninstallable",
+  "main": "./lib/uninstallable",
+  "version": "0.0.0",
+  "description": "A package that can't be installed until atom reach version 99.0.0.",
+  "activationCommands": {
+    "atom-workspace": "uninstallable:toggle"
+  },
+  "repository": "https://github.com/atom/uninstallable",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=99.0.0"
+  },
+  "dependencies": {
+  }
+}
