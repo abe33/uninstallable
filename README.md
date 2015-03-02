@@ -1,3 +1,3 @@
 # uninstallable package
 
-A package that can't be installed until atom reach version 99.0.0.
+A package that should't be installed until atom reach version 99.0.0.
