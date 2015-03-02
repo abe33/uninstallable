@@ -1,7 +1,7 @@
 {
   "name": "uninstallable",
   "main": "./lib/uninstallable",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A package that should't be installed until atom reach version 99.0.0.",
   "activationCommands": {
     "atom-workspace": "uninstallable:toggle"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">=99.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
